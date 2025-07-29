@@ -17,4 +17,12 @@ my solution
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yaaaminiii/leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
