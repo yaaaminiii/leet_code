@@ -16,6 +16,7 @@ my solution
 ## Database
 |  |
 | ------- |
+| [0627-swap-salary](https://github.com/yaaaminiii/leet_code/tree/master/0627-swap-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yaaaminiii/leet_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Array
 |  |
