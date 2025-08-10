@@ -8,6 +8,7 @@ my solution
 | ------- |
 | [0007-reverse-integer](https://github.com/yaaaminiii/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yaaaminiii/leet_code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
 ## Binary Search
@@ -23,6 +24,7 @@ my solution
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 ## Bit Manipulation
