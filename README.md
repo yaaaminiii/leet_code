@@ -24,6 +24,7 @@ my solution
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
@@ -35,4 +36,8 @@ my solution
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
