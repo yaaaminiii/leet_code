@@ -15,6 +15,7 @@ my solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 ## Database
 |  |
 | ------- |
@@ -28,6 +29,7 @@ my solution
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
+| [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
