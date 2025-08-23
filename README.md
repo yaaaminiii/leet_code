@@ -13,6 +13,7 @@ my solution
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ my solution
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +58,16 @@ my solution
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+## Sorting
+|  |
+| ------- |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+## Game Theory
+|  |
+| ------- |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 <!---LeetCode Topics End-->
