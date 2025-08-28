@@ -2,8 +2,7 @@
 select d.name as Department,e.name as Employee,salary  from
 Employee e  join Department d
 on e.departmentId=d.id
-where (d.name,e.salary) in
-(select d.name,max(e.salary) from
-  Employee e join Department d
-  on e.departmentId=d.id
-  group by d.name);
+where (d.id,e.salary) in
+(select DepartmentId,max(salary) from
+ employee 
+  group by departmentId);
