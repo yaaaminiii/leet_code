@@ -40,6 +40,7 @@ my solution
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
@@ -67,11 +68,13 @@ my solution
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
