@@ -38,6 +38,7 @@ my solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -68,16 +69,22 @@ my solution
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
 | ------- |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
