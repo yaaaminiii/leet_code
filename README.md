@@ -23,6 +23,7 @@ my solution
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/yaaaminiii/leet_code/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/yaaaminiii/leet_code/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/yaaaminiii/leet_code/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/yaaaminiii/leet_code/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/yaaaminiii/leet_code/tree/master/1135-customers-who-bought-all-products) |
