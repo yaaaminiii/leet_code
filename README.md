@@ -94,4 +94,12 @@ my solution
 | ------- |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
