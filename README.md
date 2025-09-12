@@ -10,6 +10,7 @@ my solution
 | [0009-palindrome-number](https://github.com/yaaaminiii/leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -136,6 +137,7 @@ my solution
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -146,4 +148,8 @@ my solution
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
