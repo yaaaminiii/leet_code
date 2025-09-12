@@ -14,6 +14,7 @@ my solution
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Binary Search
@@ -108,6 +109,7 @@ my solution
 ## Game Theory
 |  |
 | ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Counting Sort
 |  |
@@ -130,6 +132,7 @@ my solution
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
+| [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -139,4 +142,8 @@ my solution
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
