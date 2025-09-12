@@ -11,6 +11,7 @@ my solution
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/yaaaminiii/leet_code/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
