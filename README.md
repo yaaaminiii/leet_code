@@ -48,6 +48,7 @@ my solution
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
@@ -106,6 +107,7 @@ my solution
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
@@ -121,12 +123,14 @@ my solution
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -159,4 +163,8 @@ my solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
