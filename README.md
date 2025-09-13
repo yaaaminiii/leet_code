@@ -11,6 +11,7 @@ my solution
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/yaaaminiii/leet_code/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ my solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 ## Database
 |  |
@@ -46,6 +48,7 @@ my solution
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
@@ -70,6 +73,7 @@ my solution
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/yaaaminiii/leet_code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
@@ -102,6 +106,7 @@ my solution
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
@@ -122,6 +127,7 @@ my solution
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
