@@ -57,6 +57,7 @@ my solution
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/yaaaminiii/leet_code/tree/master/1241-decompress-run-length-encoded-list) |
+| [1293-three-consecutive-odds](https://github.com/yaaaminiii/leet_code/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
