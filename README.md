@@ -12,6 +12,7 @@ my solution
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/yaaaminiii/leet_code/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yaaaminiii/leet_code/tree/master/1086-divisor-game) |
@@ -154,6 +155,7 @@ my solution
 | ------- |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -166,6 +168,7 @@ my solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
