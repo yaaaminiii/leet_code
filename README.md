@@ -45,6 +45,7 @@ my solution
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ my solution
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
