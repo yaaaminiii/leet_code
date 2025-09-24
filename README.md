@@ -104,6 +104,7 @@ my solution
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -168,6 +169,7 @@ my solution
 | [0058-length-of-last-word](https://github.com/yaaaminiii/leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
