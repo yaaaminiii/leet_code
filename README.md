@@ -29,6 +29,7 @@ my solution
 | ------- |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 ## Database
 |  |
@@ -57,6 +58,7 @@ my solution
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
@@ -106,6 +108,7 @@ my solution
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -130,6 +133,7 @@ my solution
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
@@ -158,6 +162,7 @@ my solution
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
