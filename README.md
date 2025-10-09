@@ -53,6 +53,7 @@ my solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@ my solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/yaaaminiii/leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
@@ -134,6 +136,7 @@ my solution
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
