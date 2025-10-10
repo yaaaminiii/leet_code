@@ -19,6 +19,7 @@ my solution
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -134,6 +135,7 @@ my solution
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
