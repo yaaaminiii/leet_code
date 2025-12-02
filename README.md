@@ -69,6 +69,7 @@ my solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/yaaaminiii/leet_code/tree/master/1241-decompress-run-length-encoded-list) |
@@ -214,6 +215,7 @@ my solution
 | [0258-add-digits](https://github.com/yaaaminiii/leet_code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yaaaminiii/leet_code/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -238,4 +240,8 @@ my solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
