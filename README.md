@@ -20,6 +20,7 @@ my solution
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -96,6 +97,7 @@ my solution
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/yaaaminiii/leet_code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/yaaaminiii/leet_code/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaaaminiii/leet_code/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -232,6 +234,7 @@ my solution
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
 | ------- |
