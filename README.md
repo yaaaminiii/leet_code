@@ -18,6 +18,7 @@ my solution
 | [1086-divisor-game](https://github.com/yaaaminiii/leet_code/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/yaaaminiii/leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -228,6 +229,7 @@ my solution
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yaaaminiii/leet_code/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/yaaaminiii/leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
