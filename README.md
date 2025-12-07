@@ -91,6 +91,7 @@ my solution
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yaaaminiii/leet_code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/yaaaminiii/leet_code/tree/master/2836-neither-minimum-nor-maximum) |
@@ -134,6 +135,7 @@ my solution
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +234,7 @@ my solution
 | [1688-count-of-matches-in-tournament](https://github.com/yaaaminiii/leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
