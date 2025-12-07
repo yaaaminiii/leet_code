@@ -93,6 +93,7 @@ my solution
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yaaaminiii/leet_code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/yaaaminiii/leet_code/tree/master/2836-neither-minimum-nor-maximum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/yaaaminiii/leet_code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -238,6 +239,7 @@ my solution
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Prefix Sum
 |  |
