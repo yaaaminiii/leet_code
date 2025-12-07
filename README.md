@@ -214,6 +214,7 @@ my solution
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/yaaaminiii/leet_code/tree/master/1797-goal-parser-interpretation) |
 | [1904-second-largest-digit-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yaaaminiii/leet_code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yaaaminiii/leet_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -232,6 +233,7 @@ my solution
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yaaaminiii/leet_code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/yaaaminiii/leet_code/tree/master/1688-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yaaaminiii/leet_code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
