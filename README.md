@@ -25,6 +25,7 @@ my solution
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/yaaaminiii/leet_code/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaaaminiii/leet_code/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -243,6 +244,7 @@ my solution
 | [2553-separate-the-digits-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/yaaaminiii/leet_code/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Prefix Sum
 |  |
 | ------- |
