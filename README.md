@@ -219,6 +219,7 @@ my solution
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
+| [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
@@ -237,6 +238,7 @@ my solution
 | [2058-concatenation-of-array](https://github.com/yaaaminiii/leet_code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
+| [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,6 +266,7 @@ my solution
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
 | ------- |
