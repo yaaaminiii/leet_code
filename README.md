@@ -79,6 +79,7 @@ my solution
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/yaaaminiii/leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/yaaaminiii/leet_code/tree/master/1293-three-consecutive-odds) |
@@ -171,6 +172,7 @@ my solution
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yaaaminiii/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -188,6 +190,7 @@ my solution
 | ------- |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
@@ -270,6 +273,7 @@ my solution
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -289,8 +293,21 @@ my solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
