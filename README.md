@@ -66,6 +66,7 @@ my solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yaaaminiii/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yaaaminiii/leet_code/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ my solution
 | [0075-sort-colors](https://github.com/yaaaminiii/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +269,7 @@ my solution
 | ------- |
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -282,4 +285,12 @@ my solution
 | [0054-spiral-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
