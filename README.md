@@ -77,6 +77,7 @@ my solution
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
@@ -206,6 +207,7 @@ my solution
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yaaaminiii/leet_code/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -221,6 +223,7 @@ my solution
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yaaaminiii/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/yaaaminiii/leet_code/tree/master/1108-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
