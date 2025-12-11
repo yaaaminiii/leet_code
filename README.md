@@ -225,6 +225,7 @@ my solution
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/yaaaminiii/leet_code/tree/master/1108-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/yaaaminiii/leet_code/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/yaaaminiii/leet_code/tree/master/1797-goal-parser-interpretation) |
