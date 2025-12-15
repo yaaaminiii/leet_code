@@ -99,6 +99,7 @@ my solution
 | [2460-apply-operations-to-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yaaaminiii/leet_code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/yaaaminiii/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/yaaaminiii/leet_code/tree/master/2678-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/yaaaminiii/leet_code/tree/master/2836-neither-minimum-nor-maximum) |
@@ -265,6 +266,7 @@ my solution
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/yaaaminiii/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
