@@ -106,6 +106,7 @@ my solution
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/yaaaminiii/leet_code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/yaaaminiii/leet_code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/yaaaminiii/leet_code/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -267,6 +268,7 @@ my solution
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/yaaaminiii/leet_code/tree/master/2574-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
