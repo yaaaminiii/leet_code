@@ -300,6 +300,7 @@ my solution
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Matrix
@@ -333,12 +334,15 @@ my solution
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
