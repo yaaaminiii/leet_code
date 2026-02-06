@@ -211,6 +211,7 @@ my solution
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
@@ -227,6 +228,7 @@ my solution
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yaaaminiii/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/yaaaminiii/leet_code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/yaaaminiii/leet_code/tree/master/0657-robot-return-to-origin) |
@@ -293,6 +295,7 @@ my solution
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
@@ -358,4 +361,8 @@ my solution
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yaaaminiii/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
