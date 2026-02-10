@@ -38,6 +38,7 @@ my solution
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaaaminiii/leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yaaaminiii/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yaaaminiii/leet_code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
@@ -89,6 +90,7 @@ my solution
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/yaaaminiii/leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/yaaaminiii/leet_code/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaaaminiii/leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yaaaminiii/leet_code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -319,6 +321,7 @@ my solution
 | [0240-search-a-2d-matrix-ii](https://github.com/yaaaminiii/leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaaaminiii/leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
