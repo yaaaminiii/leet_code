@@ -66,6 +66,7 @@ my solution
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/yaaaminiii/leet_code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yaaaminiii/leet_code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaaaminiii/leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ my solution
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/yaaaminiii/leet_code/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaaaminiii/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yaaaminiii/leet_code/tree/master/1086-divisor-game) |
@@ -324,6 +326,7 @@ my solution
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/yaaaminiii/leet_code/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaaaminiii/leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0867-transpose-matrix) |
