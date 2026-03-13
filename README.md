@@ -46,6 +46,7 @@ my solution
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/yaaaminiii/leet_code/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/yaaaminiii/leet_code/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/yaaaminiii/leet_code/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/yaaaminiii/leet_code/tree/master/0184-department-highest-salary) |
