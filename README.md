@@ -102,6 +102,7 @@ my solution
 | [1389-create-target-array-in-the-given-order](https://github.com/yaaaminiii/leet_code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/yaaaminiii/leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/yaaaminiii/leet_code/tree/master/1672-richest-customer-wealth) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
