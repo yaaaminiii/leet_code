@@ -90,6 +90,7 @@ my solution
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yaaaminiii/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
@@ -399,4 +400,5 @@ my solution
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
