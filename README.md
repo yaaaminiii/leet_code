@@ -25,6 +25,7 @@ my solution
 | [2485-find-the-pivot-integer](https://github.com/yaaaminiii/leet_code/tree/master/2485-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yaaaminiii/leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
@@ -191,6 +192,7 @@ my solution
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yaaaminiii/leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
@@ -276,6 +278,7 @@ my solution
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yaaaminiii/leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/yaaaminiii/leet_code/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yaaaminiii/leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
