@@ -143,6 +143,7 @@ my solution
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/yaaaminiii/leet_code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
@@ -229,6 +230,7 @@ my solution
 | [0912-sort-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0912-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yaaaminiii/leet_code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yaaaminiii/leet_code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -248,6 +250,7 @@ my solution
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yaaaminiii/leet_code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yaaaminiii/leet_code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -277,6 +280,7 @@ my solution
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yaaaminiii/leet_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yaaaminiii/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yaaaminiii/leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yaaaminiii/leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/yaaaminiii/leet_code/tree/master/2678-number-of-senior-citizens) |
