@@ -134,6 +134,7 @@ my solution
 | [3429-special-array-i](https://github.com/yaaaminiii/leet_code/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/yaaaminiii/leet_code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/yaaaminiii/leet_code/tree/master/3731-find-missing-elements) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaaaminiii/leet_code/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -216,6 +217,7 @@ my solution
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaaaminiii/leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/yaaaminiii/leet_code/tree/master/2836-neither-minimum-nor-maximum) |
+| [3731-find-missing-elements](https://github.com/yaaaminiii/leet_code/tree/master/3731-find-missing-elements) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
@@ -255,6 +257,7 @@ my solution
 | [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yaaaminiii/leet_code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/yaaaminiii/leet_code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
