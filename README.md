@@ -26,6 +26,7 @@ my solution
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yaaaminiii/leet_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yaaaminiii/leet_code/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yaaaminiii/leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yaaaminiii/leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/yaaaminiii/leet_code/tree/master/3568-find-the-key-of-the-numbers) |
@@ -423,4 +424,8 @@ my solution
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yaaaminiii/leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaaaminiii/leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yaaaminiii/leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yaaaminiii/leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
