@@ -17,10 +17,6 @@ public:
                 max_vowel=max(max_vowel,freq[s[i]]);
             }
         }
-        return max_vowel+max_consonant;
-
-
-                
-     
+        return max_vowel+max_consonant;  
     }
 };
