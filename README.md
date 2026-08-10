@@ -17,6 +17,7 @@ my solution
 | [0507-perfect-number](https://github.com/yaaaminiii/leet_code/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yaaaminiii/leet_code/tree/master/1086-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/yaaaminiii/leet_code/tree/master/1323-maximum-69-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaaaminiii/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -104,6 +105,7 @@ my solution
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/yaaaminiii/leet_code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/yaaaminiii/leet_code/tree/master/1293-three-consecutive-odds) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yaaaminiii/leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaaaminiii/leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yaaaminiii/leet_code/tree/master/1389-create-target-array-in-the-given-order) |
