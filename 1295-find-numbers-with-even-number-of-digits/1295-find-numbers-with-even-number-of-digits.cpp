@@ -1,18 +1,14 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int total=0;{
-          for(int i=0;i<nums.size();i++){
-            int count=0;
-            while(nums[i]>0){
-                nums[i]=nums[i]/10;
-                count++;
+        int res = 0;
+
+        for (int n : nums) {
+            if ((n > 9 && n < 100) || (n > 999 && n < 10000) || n == 100000) {
+                res++;
             }
-        if(count%2==0){
-            total++;
         }
-          }
-        return total;
-        }   
+
+        return res;        
     }
 };
