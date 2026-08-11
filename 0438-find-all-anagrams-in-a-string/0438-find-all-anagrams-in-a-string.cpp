@@ -10,14 +10,13 @@ public:
         vector<int>res;
         for(int right=0;right<s.size();right++){
            frqs[s[right]]++;
-          if(right>p.size()-1){
-                 frqs[s[left]]--;  
+           if(right>p.size()-1){
+                 frqs[s[left]]--;   
                 if (frqs[s[left]] == 0) {
                      frqs.erase(s[left]);
                 } 
                 left++;              
-             } 
-                                
+             }                                 
         if(freq==frqs)  {
              res.push_back(left);
           }       
