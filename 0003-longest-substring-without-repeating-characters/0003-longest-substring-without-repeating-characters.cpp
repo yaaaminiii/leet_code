@@ -19,7 +19,6 @@ public:
                 st.erase(s[left]);
                 left++;
             }
-
             st.insert(s[right]);
 
             maxlength = max(maxlength, right - left + 1);
