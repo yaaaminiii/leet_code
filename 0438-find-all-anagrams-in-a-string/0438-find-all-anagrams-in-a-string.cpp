@@ -13,7 +13,7 @@ public:
           if(right>p.size()-1){
                  frqs[s[left]]--;  
                  if (frqs[s[left]] == 0) {
-                    frqs.erase(s[left]);
+                     frqs.erase(s[left]);
                 } 
                 left++;              
              } 
