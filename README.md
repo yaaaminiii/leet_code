@@ -184,6 +184,7 @@ my solution
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yaaaminiii/leet_code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/yaaaminiii/leet_code/tree/master/0917-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/1019-squares-of-a-sorted-array) |
@@ -264,6 +265,7 @@ my solution
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaaaminiii/leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -289,6 +291,7 @@ my solution
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/yaaaminiii/leet_code/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/yaaaminiii/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/yaaaminiii/leet_code/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
@@ -445,6 +448,7 @@ my solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaaaminiii/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yaaaminiii/leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
