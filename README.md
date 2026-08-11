@@ -15,6 +15,7 @@ my solution
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/yaaaminiii/leet_code/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/yaaaminiii/leet_code/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/yaaaminiii/leet_code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yaaaminiii/leet_code/tree/master/1086-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yaaaminiii/leet_code/tree/master/1295-find-numbers-with-even-number-of-digits) |
