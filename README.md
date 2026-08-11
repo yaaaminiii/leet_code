@@ -254,6 +254,7 @@ my solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yaaaminiii/leet_code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/yaaaminiii/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yaaaminiii/leet_code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yaaaminiii/leet_code/tree/master/0217-contains-duplicate) |
@@ -276,6 +277,7 @@ my solution
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yaaaminiii/leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
@@ -440,6 +442,7 @@ my solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
