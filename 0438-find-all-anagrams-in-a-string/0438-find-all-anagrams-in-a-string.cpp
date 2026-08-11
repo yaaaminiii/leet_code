@@ -12,15 +12,14 @@ public:
            frqs[s[right]]++;
           if(right>p.size()-1){
                  frqs[s[left]]--;  
-                 if (frqs[s[left]] == 0) {
+                if (frqs[s[left]] == 0) {
                      frqs.erase(s[left]);
                 } 
                 left++;              
              } 
-                       
-          
-          if(freq==frqs)  {
-            res.push_back(left);
+                                
+        if(freq==frqs)  {
+             res.push_back(left);
           }       
     }
      return res;
