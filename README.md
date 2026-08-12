@@ -139,6 +139,7 @@ my solution
 | [2678-number-of-senior-citizens](https://github.com/yaaaminiii/leet_code/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaaaminiii/leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/yaaaminiii/leet_code/tree/master/2836-neither-minimum-nor-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaaaminiii/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/yaaaminiii/leet_code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/yaaaminiii/leet_code/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/yaaaminiii/leet_code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -275,6 +276,7 @@ my solution
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yaaaminiii/leet_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2427-first-letter-to-appear-twice](https://github.com/yaaaminiii/leet_code/tree/master/2427-first-letter-to-appear-twice) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaaaminiii/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yaaaminiii/leet_code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/yaaaminiii/leet_code/tree/master/3731-find-missing-elements) |
 ## String
@@ -455,6 +457,7 @@ my solution
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yaaaminiii/leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaaaminiii/leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yaaaminiii/leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yaaaminiii/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
