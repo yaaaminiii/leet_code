@@ -100,6 +100,7 @@ my solution
 | [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yaaaminiii/leet_code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/yaaaminiii/leet_code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
@@ -356,6 +357,7 @@ my solution
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yaaaminiii/leet_code/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/yaaaminiii/leet_code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaaaminiii/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yaaaminiii/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/1588-sum-of-all-odd-length-subarrays) |
