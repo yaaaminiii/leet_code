@@ -90,6 +90,7 @@ my solution
 | [0240-search-a-2d-matrix-ii](https://github.com/yaaaminiii/leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yaaaminiii/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yaaaminiii/leet_code/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/yaaaminiii/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/yaaaminiii/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yaaaminiii/leet_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -354,6 +355,7 @@ my solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yaaaminiii/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/yaaaminiii/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yaaaminiii/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -476,4 +478,8 @@ my solution
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yaaaminiii/leet_code/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yaaaminiii/leet_code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
