@@ -122,6 +122,7 @@ my solution
 | [1572-matrix-diagonal-sum](https://github.com/yaaaminiii/leet_code/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/yaaaminiii/leet_code/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yaaaminiii/leet_code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaaaminiii/leet_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
@@ -356,6 +357,7 @@ my solution
 | [1004-max-consecutive-ones-iii](https://github.com/yaaaminiii/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yaaaminiii/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/yaaaminiii/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/yaaaminiii/leet_code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/yaaaminiii/leet_code/tree/master/2574-left-and-right-sum-differences) |
