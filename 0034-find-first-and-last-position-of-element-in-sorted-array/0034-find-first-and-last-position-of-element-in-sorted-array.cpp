@@ -43,7 +43,7 @@ public:
                 low=mid+1;
             }
         }
-        int second=high;
+       int second=high;
        if (first == nums.size() || nums[first] != target) {
             return {-1, -1};
         }
