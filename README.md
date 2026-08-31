@@ -40,6 +40,7 @@ my solution
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/yaaaminiii/leet_code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaaaminiii/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaaaminiii/leet_code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -76,6 +77,7 @@ my solution
 | [0001-two-sum](https://github.com/yaaaminiii/leet_code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaaaminiii/leet_code/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaaaminiii/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yaaaminiii/leet_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yaaaminiii/leet_code/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/yaaaminiii/leet_code/tree/master/0064-minimum-path-sum) |
