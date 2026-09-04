@@ -164,6 +164,7 @@ my solution
 | [3731-find-missing-elements](https://github.com/yaaaminiii/leet_code/tree/master/3731-find-missing-elements) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/yaaaminiii/leet_code/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaaaminiii/leet_code/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3903-smallest-stable-index-i](https://github.com/yaaaminiii/leet_code/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +382,7 @@ my solution
 | [2574-left-and-right-sum-differences](https://github.com/yaaaminiii/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yaaaminiii/leet_code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yaaaminiii/leet_code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/yaaaminiii/leet_code/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
 |  |
 | ------- |
