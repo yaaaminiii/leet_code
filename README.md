@@ -322,6 +322,7 @@ my solution
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/yaaaminiii/leet_code/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yaaaminiii/leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/yaaaminiii/leet_code/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/yaaaminiii/leet_code/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yaaaminiii/leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -412,6 +413,7 @@ my solution
 | [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yaaaminiii/leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
