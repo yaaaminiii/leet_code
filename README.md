@@ -304,6 +304,7 @@ my solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaaaminiii/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/yaaaminiii/leet_code/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/yaaaminiii/leet_code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yaaaminiii/leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0125-valid-palindrome) |
@@ -409,6 +410,7 @@ my solution
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yaaaminiii/leet_code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -502,4 +504,8 @@ my solution
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yaaaminiii/leet_code/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yaaaminiii/leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
