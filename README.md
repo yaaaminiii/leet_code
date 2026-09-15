@@ -106,6 +106,7 @@ my solution
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yaaaminiii/leet_code/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/yaaaminiii/leet_code/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/yaaaminiii/leet_code/tree/master/0832-flipping-an-image) |
@@ -415,6 +416,7 @@ my solution
 | [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yaaaminiii/leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/yaaaminiii/leet_code/tree/master/3174-clear-digits) |
 ## Matrix
@@ -508,4 +510,8 @@ my solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaaaminiii/leet_code/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
