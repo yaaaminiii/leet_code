@@ -224,6 +224,7 @@ my solution
 | [0409-longest-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
+| [0649-dota2-senate](https://github.com/yaaaminiii/leet_code/tree/master/0649-dota2-senate) |
 | [1323-maximum-69-number](https://github.com/yaaaminiii/leet_code/tree/master/1323-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yaaaminiii/leet_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/yaaaminiii/leet_code/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -319,6 +320,7 @@ my solution
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/yaaaminiii/leet_code/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/yaaaminiii/leet_code/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/yaaaminiii/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/yaaaminiii/leet_code/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
@@ -514,4 +516,8 @@ my solution
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/yaaaminiii/leet_code/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
