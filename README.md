@@ -100,6 +100,7 @@ my solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/yaaaminiii/leet_code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yaaaminiii/leet_code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/yaaaminiii/leet_code/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/yaaaminiii/leet_code/tree/master/0561-array-partition) |
 | [0641-design-circular-deque](https://github.com/yaaaminiii/leet_code/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/yaaaminiii/leet_code/tree/master/0643-maximum-average-subarray-i) |
@@ -289,6 +290,7 @@ my solution
 | [0409-longest-palindrome](https://github.com/yaaaminiii/leet_code/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaaaminiii/leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yaaaminiii/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/yaaaminiii/leet_code/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yaaaminiii/leet_code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/yaaaminiii/leet_code/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yaaaminiii/leet_code/tree/master/0804-unique-morse-code-words) |
@@ -418,6 +420,7 @@ my solution
 | [0094-binary-tree-inorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yaaaminiii/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/yaaaminiii/leet_code/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yaaaminiii/leet_code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yaaaminiii/leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -517,6 +520,7 @@ my solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/yaaaminiii/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yaaaminiii/leet_code/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
