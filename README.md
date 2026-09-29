@@ -215,6 +215,7 @@ my solution
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yaaaminiii/leet_code/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -530,5 +531,6 @@ my solution
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yaaaminiii/leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0641-design-circular-deque](https://github.com/yaaaminiii/leet_code/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
