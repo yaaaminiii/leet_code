@@ -218,6 +218,7 @@ my solution
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yaaaminiii/leet_code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/yaaaminiii/leet_code/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/yaaaminiii/leet_code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -537,6 +538,7 @@ my solution
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yaaaminiii/leet_code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/yaaaminiii/leet_code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/yaaaminiii/leet_code/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/yaaaminiii/leet_code/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/yaaaminiii/leet_code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
