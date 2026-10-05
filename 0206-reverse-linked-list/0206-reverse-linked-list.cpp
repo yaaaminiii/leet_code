@@ -11,17 +11,29 @@
 class Solution{
 public:
     ListNode* reverseList(ListNode* head) {
-        vector<int>arr;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }
-        temp=head;
-        for(int i=arr.size()-1;i>=0;i--){
-            temp->val=arr[i];
-            temp=temp->next;
-        }
-        return head;
+    //     vector<int>arr;
+    //     ListNode* temp=head;
+    //     while(temp!=NULL){
+    //         arr.push_back(temp->val);
+    //         temp=temp->next;
+    //     }
+    //     temp=head;
+    //     for(int i=arr.size()-1;i>=0;i--){
+    //         temp->val=arr[i];
+    //         temp=temp->next;
+    //     }
+    //     return head;
+    // }
+      ListNode* curr=head;
+      ListNode  *prev=NULL;
+      ListNode *next=NULL;
+
+      while(curr!=NULL){
+        next=curr->next; //to store the next address
+        curr->next=prev; //replace the cuurent next with prev
+        prev=curr; //for the next node current will be prev
+        curr=next; //move current to the next node
+      }
+      return prev;
     }
 };
